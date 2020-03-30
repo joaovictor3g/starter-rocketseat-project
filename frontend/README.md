@@ -42,3 +42,4 @@
 ### A Implementar
 - [X] Delete
 - [X] Update
+- [ ] Consertar paginação
