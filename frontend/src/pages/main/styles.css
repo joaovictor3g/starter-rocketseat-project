@@ -12,6 +12,10 @@
     margin-bottom: 20px;
 }
 
+.product-list strong {
+    font-size: 18px;
+}
+
 .product-list article p {
     font-size: 16px;
     color: #999;
