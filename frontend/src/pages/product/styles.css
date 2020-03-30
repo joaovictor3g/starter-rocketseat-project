@@ -41,6 +41,7 @@
     border: 0;
     background: transparent;
     border: transparent;
+    transition: all 0.2s;
     
 }
 
@@ -51,9 +52,14 @@
     border: 0;
     background: transparent;
     border: transparent;
+    transition: all 0.2s;
     
 }
 
 .button-group button:hover {
+    opacity: 0.5;
+}
+
+.button-group .update:hover {
     opacity: 0.5;
 }
