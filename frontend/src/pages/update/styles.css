@@ -1,0 +1,50 @@
+.update-container {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+    background: #FFF;
+    border-radius: 5px;
+    border: 2px solid #dddddd;
+    
+    
+}
+
+.update-container input {
+    width: 100%;
+    font-size: 32px;
+    border-radius: 8px;
+}
+
+
+.update-container textarea {
+    margin-top: 5px;
+    min-height: 400px;
+    min-width: 100%;
+    font-size: 32px;
+    resize: vertical;
+    border-radius: 8px;
+
+}
+
+.update-container p {
+    font-size: 32px;
+}
+
+.update-container button {
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #da552f;
+    background: #FFF;
+    color: #da552f;
+    font-size: 16px;
+    font-weight: bold;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+
+.update-container button:hover {
+    background: #da552f;
+    color: #FFF;
+}

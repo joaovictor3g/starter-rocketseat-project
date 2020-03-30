@@ -40,5 +40,5 @@
 - Navegação por detalhe.
 
 ### A Implementar
-- [ ] Delete
-- [ ] Update
+- [X] Delete
+- [X] Update
