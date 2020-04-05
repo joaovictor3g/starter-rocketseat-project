@@ -21,15 +21,12 @@ export default function Update(props) {
     async function getProduct() {
         const response = await api.get(`/products/${id}`);
 
-        console.log(response.data);
         setProduct(response.data);
        
     }
     
     async function updateProduct(e) {
         e.preventDefault();
-
-        const { id } = props.match.params;
 
         const data = {
             title,
